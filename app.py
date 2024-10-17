@@ -2,6 +2,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+#Encabezado de pagina
+st.header('Graficas comparativas cantidad y precio contra kilometraje')
+
 # leer los datos
 car_data = pd.read_csv('vehicles_us.csv') 
 
