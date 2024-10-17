@@ -12,3 +12,6 @@ La gráfica de dispersión en el código te muestra la relación entre el kilome
 Puntos: Cada punto en el gráfico corresponde a un vehículo del conjunto de datos. La posición del punto en el eje X indica el kilometraje del vehículo,
 La gráfica te permite observar si hay una correlación entre el kilometraje y el precio. Por ejemplo, podrías notar que los coches con mayor kilometraje tienden a tener precios más bajos, lo que sugeriría una correlación negativa (a mayor kilometraje, menor precio).
 la gráfica de dispersión te ayuda a visualizar si existe alguna relación entre el kilometraje de los coches y su precio, además de identificar posibles tendencias o comportamientos anómalos en los datos.
+
+Pagina del proyecto 6
+https://proyecto-6-8rh2.onrender.com
