@@ -1,5 +1,5 @@
 # proyecto_6
-Trabajo proyecto 6
+aplicación web para mostrar Kilometraje
 
 En este proyecto se creo una aplicación web para mostrar dos graficos los cuales uno es un histograma; este muestra la distribución del kilometraje (columna "odometer") de los vehículos en el conjunto de datos vehicles_us.csv.
 Un histograma es útil para visualizar cómo se distribuyen los valores de una variable numérica.
@@ -13,5 +13,5 @@ Puntos: Cada punto en el gráfico corresponde a un vehículo del conjunto de dat
 La gráfica te permite observar si hay una correlación entre el kilometraje y el precio. Por ejemplo, podrías notar que los coches con mayor kilometraje tienden a tener precios más bajos, lo que sugeriría una correlación negativa (a mayor kilometraje, menor precio).
 la gráfica de dispersión te ayuda a visualizar si existe alguna relación entre el kilometraje de los coches y su precio, además de identificar posibles tendencias o comportamientos anómalos en los datos.
 
-Pagina del proyecto 6
+aplicación web para mostrar Kilometraje
 https://proyecto-6-8rh2.onrender.com
