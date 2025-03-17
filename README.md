@@ -1,4 +1,4 @@
-# proyecto_6
+# aplicación web para mostrar Kilometraje
 aplicación web para mostrar Kilometraje
 
 En este proyecto se creo una aplicación web para mostrar dos graficos los cuales uno es un histograma; este muestra la distribución del kilometraje (columna "odometer") de los vehículos en el conjunto de datos vehicles_us.csv.
